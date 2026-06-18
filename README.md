@@ -1,4 +1,4 @@
-# Fraud Detection and Anomaly Analysis
+# Fraud Detection Analysis
 
 ## Project Overview
 
